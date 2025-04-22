@@ -1,4 +1,4 @@
-## EXNO-3-DS
+# EXNO-3-DS
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
@@ -30,8 +30,8 @@ We use this categorical data encoding technique when the features are nominal(do
 • Boxcox method
 • Yeojohnson method
 
-## Developed by :YUVAN SUNDAR S
-## Reg No: 212223040250
+# Developed by :YUVAN SUNDAR S
+# Reg No: 212223040250
 # CODING AND OUTPUT:
  ```py
 import pandas as pd
